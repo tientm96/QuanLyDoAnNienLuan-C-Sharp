@@ -1,0 +1,117 @@
+CREATE DATABASE QuanLyDoAnNienLuan
+Go
+
+USE QuanLyDoAnNienLuan
+GO
+
+--Phan Quyen
+--Tai Khoan
+--Sinh Vien
+--Giang Vien
+--DeTai
+--Bo Mon
+--Quyen Do an
+--phieudangki
+-- Phieuphancong
+
+CREATE TABLE SINHVIEN
+(
+	MSSV int IDENTITY PRIMARY KEY,
+	HoTen NVARCHAR(100),
+	NgaySinh Smalldatetime,
+	Phai bit,
+	Khoa NVarChar(50),
+	Email varchar(50),
+	SDT int,
+)
+GO
+
+
+
+
+CREATE TABLE TAIKHOAN
+(
+	TaiKhoanID int primary key,
+	Pass varchar(20),
+	TaiKhoanGhiChu nvarchar(100),
+	FK_Quyen int,
+	foreign key (FK_Quyen) references dbo.PHANQUYEN(Quyen), --tham chieu den ban phan quyen
+
+)
+GO
+
+CREATE TABLE GIANGVIEN
+(
+	MaGV varchar(50) primary key,
+	HoTenGV nvarchar(50),
+	Phai bit,
+	MaChucDanh nvarchar(50),
+	SDT char(12),
+	Email varchar(100),
+	SoDAra int,
+	SoDACham int,
+)
+GO
+
+
+CREATE TABLE DETAI
+(
+	MaDeTai varchar(50) primary key,
+	TenDeTai nvarchar(100),
+	LoaiDeTai nvarchar(50),
+	NgayRaDT smalldatetime,
+	FK_MaGV varchar(50),
+	foreign key(FK_MaGV) references dbo.GIANGVIEN(MaGV), --tham chieu den bang giang vien
+
+)
+GO
+
+CREATE TABLE BOMON
+(
+	MaChucVu varchar(50) primary key,
+	ChucVu nvarchar(50),
+	TenCanBo nvarchar(50),
+)
+GO
+
+
+CREATE TABLE QUYENDOAN
+(
+	MaQuyenDA varchar(50) primary key ,
+	NgayNop Smalldatetime,
+	DiemDA char(5),
+	NhanXet Nvarchar(100),
+	FK_MaGV varchar(50),
+	foreign key (FK_MaGV) references dbo.GIANGVIEN(MaGV), --tham chieu den bang giang vien
+	FK_MaDeTai varchar(50),
+	foreign key (FK_MaDeTai) references dbo.DETAI(MaDeTai), --tham chieu den bang de tai
+
+)
+GO
+
+CREATE TABLE PHIEUDANGKI
+(
+	MaPhieuDK varchar (50) primary key,
+	NgayDK smalldatetime,
+
+	FK_MaQuyenDA varchar(50),
+	foreign key(FK_MaQuyenDA) references dbo.QUYENDOAN(MaQuyenDA),
+		FK_MaDeTai varchar(50),
+	foreign key (FK_MaDeTai) references dbo.DETAI(MaDeTai),
+)
+GO
+
+CREATE TABLE PHIEUPHANCONG
+(
+	MaPhieuPC varchar(50) primary key,
+	NgayPC smalldatetime,
+	FK_MaGV varchar(50),
+	foreign key(FK_MaGV) references dbo.GIANGVIEN(MaGV), --Tham chieu den GIANGVIEN
+	FK_MaChucVu varchar(50), 
+	foreign key (FK_MaChucVu) references dbo.BOMON(MaChucVu), --tham chieu den BOMON
+)
+GO
+
+
+
+

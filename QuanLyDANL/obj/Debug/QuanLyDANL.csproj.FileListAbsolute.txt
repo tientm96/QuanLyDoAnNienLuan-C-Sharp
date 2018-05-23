@@ -1,0 +1,86 @@
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.exe.config
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.exe
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.pdb
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.csprojResolveAssemblyReference.cache
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.Properties.Resources.resources
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.csproj.GenerateResource.Cache
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.exe
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.pdb
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fLogin.resources
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fManHinh.resources
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fTaikhoan.resources
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fThongke.resources
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fDangky.resources
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fRadetai.resources
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fPhancong.resources
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fDanhgia.resources
+F:\visual\lap trinh c# winform\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fQuyendoan.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.exe.config
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.exe
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.pdb
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.csprojResolveAssemblyReference.cache
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fDangky.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fDanhgia.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fLogin.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fManHinh.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fPhancong.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fQuyendoan.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fRadetai.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fTaikhoan.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fThongke.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.Properties.Resources.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.csproj.GenerateResource.Cache
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.exe
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.pdb
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.exe.config
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.exe
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.pdb
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.csprojResolveAssemblyReference.cache
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fDangky.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fDanhgia.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fLogin.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fManHinh.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fPhancong.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fQuyendoan.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fRadetai.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fTaikhoan.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fThongke.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.Properties.Resources.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.csproj.GenerateResource.Cache
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.exe
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\PTTK HTTT\chuong3vssolution\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.pdb
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.exe.config
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.exe
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.pdb
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.csprojResolveAssemblyReference.cache
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fDangky.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fDanhgia.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fLogin.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fManHinh.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fPhancong.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fQuyendoan.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fRadetai.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fTaikhoan.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fThongke.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.Properties.Resources.resources
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.csproj.GenerateResource.Cache
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.exe
+E:\1. DAI HOC\HOC TAP\12. LAP TRINH C#\ĐỒ ÁN PTTK HTTT\Visua\QL DANL\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.pdb
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.exe.config
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.exe
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\bin\Debug\QuanLyDANL.pdb
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.csprojResolveAssemblyReference.cache
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fDangky.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fDanhgia.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fLogin.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fManHinh.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fPhancong.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fQuyendoan.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fRadetai.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fTaikhoan.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.fThongke.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.Properties.Resources.resources
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.csproj.GenerateResource.cache
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.csproj.CoreCompileInputs.cache
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.exe
+F:\1. DAI HOC\3. SOFTWARE\NHOM CO SO NGANH\4. LAP TRINH C# PTTK HTTT\2. ĐỒ ÁN PTTK HTTT\Code\QuanLyDoAnNienLuan\QuanLyDANL\obj\Debug\QuanLyDANL.pdb
